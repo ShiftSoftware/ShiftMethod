@@ -22,3 +22,24 @@ We started by developing and maintaining custom software and platforms for local
   <li>Our <strong>long-term</strong> goal is to focus on building tools for everyone without much intervention on what those tools are used for building.</li>
   <li>And our <strong>ultimate</strong> goal is to export our tools to people, businesses, and organizations outside our local market and country.</li>
 </ul>
+
+
+<br/>
+
+# Specialization
+Combining a pool of talent that's collabrating together in building and providing long term support for a diverse set of industries would provide a much greater value for all envolved parties than if the talents are spread out.
+The combined concentrated.
+<br/><br/>
+
+# 
+### Inefficient (Unutilized)
+<br/>
+
+![Tux, the Linux mascot](assets/spread_out_talent.png)
+
+<br/>
+
+# 
+### Efficient (Utilized)
+![Tux, the Linux mascot](assets/combined_talent.png)
+## 
