@@ -28,7 +28,6 @@ We started by developing and maintaining custom software and platforms for local
 
 # Specialization
 Combining a pool of talent that's collabrating together in building and providing long term support for a diverse set of industries would provide a much greater value for all envolved parties than if the talents are spread out.
-The combined concentrated.
 <br/><br/>
 
 # 
